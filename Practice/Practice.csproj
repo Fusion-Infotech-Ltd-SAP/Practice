@@ -94,6 +94,9 @@
     <Compile Include="Fahim.b1f.cs">
       <DependentUpon>Fahim.b1f</DependentUpon>
     </Compile>
+    <Compile Include="habib.b1f.cs">
+      <DependentUpon>habib.b1f</DependentUpon>
+    </Compile>
     <Compile Include="MasterForm.b1f.cs">
       <DependentUpon>MasterForm.b1f</DependentUpon>
     </Compile>
@@ -131,6 +134,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Menu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="habib.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
     <None Include="MasterForm.b1f">
       <FormCategory>UserForm</FormCategory>
       <SubType>Designer</SubType>
