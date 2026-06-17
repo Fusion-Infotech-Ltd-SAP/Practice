@@ -91,6 +91,9 @@
     <Compile Include="Doc.b1f.cs">
       <DependentUpon>Doc.b1f</DependentUpon>
     </Compile>
+    <Compile Include="Fahim.b1f.cs">
+      <DependentUpon>Fahim.b1f</DependentUpon>
+    </Compile>
     <Compile Include="MasterForm.b1f.cs">
       <DependentUpon>MasterForm.b1f</DependentUpon>
     </Compile>
@@ -113,6 +116,9 @@
     <None Include="Doc.b1f">
       <FormCategory>UserForm</FormCategory>
       <SubType>Designer</SubType>
+    </None>
+    <None Include="Fahim.b1f">
+      <FormCategory>UserForm</FormCategory>
     </None>
     <None Include="Form1.b1f">
       <FormCategory>UserForm</FormCategory>
