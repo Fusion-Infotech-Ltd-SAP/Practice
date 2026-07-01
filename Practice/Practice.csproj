@@ -111,6 +111,9 @@
     <Compile Include="shahin.b1f.cs">
       <DependentUpon>shahin.b1f</DependentUpon>
     </Compile>
+    <Compile Include="shahin_sh.b1f.cs">
+      <DependentUpon>shahin_sh.b1f</DependentUpon>
+    </Compile>
     <Compile Include="SystemForm1.b1f.cs">
       <DependentUpon>SystemForm1.b1f</DependentUpon>
     </Compile>
@@ -152,6 +155,9 @@
       <FormCategory>UserForm</FormCategory>
     </None>
     <None Include="shahin.b1f">
+      <FormCategory>UserForm</FormCategory>
+    </None>
+    <None Include="shahin_sh.b1f">
       <FormCategory>UserForm</FormCategory>
     </None>
     <None Include="SystemForm1.b1f">
